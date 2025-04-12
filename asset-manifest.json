@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/birthday-page/static/css/main.4c22c276.css",
-    "main.js": "/birthday-page/static/js/main.f7a36b8b.js",
+    "main.js": "/birthday-page/static/js/main.77342279.js",
     "static/js/453.dbaa2e7d.chunk.js": "/birthday-page/static/js/453.dbaa2e7d.chunk.js",
     "static/media/hatatidayo.png": "/birthday-page/static/media/hatatidayo.1fe03199445c12bf5102.png",
     "static/media/hatati.png": "/birthday-page/static/media/hatati.5c49cccfac2f0b369561.png",
     "static/media/hatatida.png": "/birthday-page/static/media/hatatida.9ce130c3370b885f2df3.png",
     "index.html": "/birthday-page/index.html",
     "main.4c22c276.css.map": "/birthday-page/static/css/main.4c22c276.css.map",
-    "main.f7a36b8b.js.map": "/birthday-page/static/js/main.f7a36b8b.js.map",
+    "main.77342279.js.map": "/birthday-page/static/js/main.77342279.js.map",
     "453.dbaa2e7d.chunk.js.map": "/birthday-page/static/js/453.dbaa2e7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c22c276.css",
-    "static/js/main.f7a36b8b.js"
+    "static/js/main.77342279.js"
   ]
 }
